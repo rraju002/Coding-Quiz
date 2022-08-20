@@ -18,6 +18,8 @@ THEN I can save my initials and score
 
 ### Deployment
 
+### Repo Link
+GitHub: https://rraju002.github.io/Coding-Quiz/
 
 ### Contributors
 Rhowen Raju
