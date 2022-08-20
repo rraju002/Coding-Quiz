@@ -4,7 +4,14 @@
 * {
     font-family: 'Noto Sans TC', sans-serif;
 }
+/* Center text */
 
+h1{
+    text-align: center;
+ }
+
+ P { text-align: center }
+ 
 /* For sticky footer - used flexbox from https://css-tricks.com/couple-takes-sticky-footer/ */
 html, body {
     height: 100%;
@@ -58,25 +65,3 @@ list-style-type: none;
     background-color: green;
 }
 
-/* Media queries for background image from https://web.dev/optimize-css-background-images-with-media-queries/ */
-
-/* Mobile */
-@media (max-width: 480px) {
-    body {
-        background-color: lightblue;
-    }
-}
-
-/* Tablet */
-@media (min-width: 481px) and (max-width: 1024px) {
-    body {
-        background-image: url(../assets/images/markus-spiske-da7AMukpg2k-unsplash-med.jpg);
-    }
-}
-
-/* Desktop */
-@media (min-width: 1025px) {
-    body {
-	    background-image: url(../assets/images/markus-spiske-da7AMukpg2k-unsplash-med.jpg);
-   }
-}
