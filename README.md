@@ -17,6 +17,9 @@ THEN I can save my initials and score
 ## Live link [Rojo's Coding Quiz](https://rraju002.github.io/Coding-Quiz/)
 
 ### Deployment
+![Untitled_ Aug 20, 2022 2_47 PM](https://user-images.githubusercontent.com/105147266/185767218-c434fa3a-3f10-402d-9155-df707477c33f.gif)
+
+
 
 ### Repo Link
 GitHub: https://rraju002.github.io/Coding-Quiz/
