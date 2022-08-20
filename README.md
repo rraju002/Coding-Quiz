@@ -23,7 +23,7 @@
 
 
 ### Repo Link
-GitHub: https://rraju002.github.io/Coding-Quiz/
+GitHub: https://github.com/rraju002/Coding-Quiz 
 
 ### Contributors
 Rhowen Raju
