@@ -13,6 +13,16 @@
 <body>
   <input id="view-scores" type="button" value="View Scores">
   <span id="timer">Time: 0</span>
+         <!-- Section for H1 and Intro // Hide upon Start-->
+         <section id="intro">
+            <div class="row">
+                <div class="col-3"></div>
+                <div class="col-6">
+                    <h1 class="d-flex justify-content-center text-center">Welcome to Rojo's Coding Quiz Challenge!</h1>
+                    <p class="d-flex justify-content-center text-center">Answer the following questions about javascript code within the time limit. Incorrect answers penalize your score/time by ten seconds!</p>
+                </div>
+            </div>
+        </section>
   <div id="scores-div"></div>
   <br>
   <div id="question-div"></div>
@@ -21,7 +31,7 @@
   <br>
   <form id="results"></form>
   <div id="buttons">
-    <input id="start-button" type="button" value="Start Quiz">
+    <input id="start-button" type="button" value="Click to Start Quiz">
   </div>
   <script src="assets/questions.js"></script>
   <script src="assets/script.js"></script>
