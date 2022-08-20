@@ -14,7 +14,7 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
-## Live link [Code Quiz](https://rraju002.github.io/Coding-Quiz/)
+## Live link [Rojo's Coding Quiz](https://rraju002.github.io/Coding-Quiz/)
 
 ### Deployment
 
